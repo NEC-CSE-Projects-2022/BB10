@@ -165,6 +165,7 @@ It provides a large and balanced benchmark for training and evaluating apparel c
 ---
 
 **##🧰 Dependencies Used**
+---
 🐍 Python – Core programming language used for system development and training
 👁️ OpenCV – Image loading, resizing, preprocessing, and video frame extraction
 🔥 TensorFlow / Keras – Deep learning framework for building and training the captioning model
