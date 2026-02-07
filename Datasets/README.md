@@ -1,6 +1,6 @@
 # 👕 Fashion Product Images Dataset — Preview & Download
 
-<img width="1100" height="550" alt="dataset-preview" src="https://instasize.com/p/8ad59b8b2d9189b1fe400d8d3f1dcc14893708565d643abd499ff30498ec6dbd" />
+<img width="1100" height="550" alt="dataset-preview" src="https://storage.googleapis.com/kagglesdsdata/datasets/139630/329006/fashion-dataset/images/10008.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20260206%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260206T052024Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=5bb69f6383537566eece4c5258e1eb3259db192b8f5484d74c8cf9de9571c054dc98c0e83bb709144b2da13674d821167b93d5f51750114d03843369524fb79217d3b5b93e8c3181670a3f21a359b1c9500c0ed72f1cc4fd656a0cc202b9140a82f6888ba4830b914668bc28385270139a529feda3fe62692e907994f6929ab76ffd3c0d92d342735cd9288aabd60a0c4c80b9626ab60fd00182b638837cd813b5b59a572762afe125760a5eec7e8ff9fec717ce3bf193dbc591ac6ee20fdd7fb769847e7e340b2b099d79fcf85d822b1d0b852fc7975b217e53efb0b776db1209e734fc8fa7e4ddf07b522655ac44f7c6831b95508eac9034d5346d06e0ed10"/>
 
 > Professional dataset README for the apparel image dataset used in this project.  
 > This file documents where to download the dataset, its structure, usage examples, acknowledgement, and citation information.
