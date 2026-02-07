@@ -54,7 +54,7 @@ information.
 Apparels Using Deep Learning
   – Author Names GOVIND AGARWAL,KRITIKA JINDAL,ABISHI CHOWDHURY,VISHAL K. SINGH,AMRIT PAL
  ](https://ieeexplore.ieee.org/document/10636169)**
-Original conference/IEEE paper used as inspiration for the model.
+
 
 ---
 
