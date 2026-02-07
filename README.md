@@ -56,7 +56,6 @@ Apparels Using Deep Learning
  ](https://ieeexplore.ieee.org/document/10636169)**
 
 
----
 
 ## Our Improvement Over Existing Paper
 ❌ Removes frame-independent captioning
@@ -160,9 +159,9 @@ Output is returned as a descriptive text caption.
 🗂 Dataset Details
 🟢 Fashion Product Images Dataset
 
-****Contains ~44,000+ real-world fashion product images along with detailed metadata.
-It provides a large and balanced benchmark for training and evaluating apparel captioning, classification, and retrieval systems.****
----
+Contains ~44,000+ real-world fashion product images along with detailed metadata.
+It provides a large and balanced benchmark for training and evaluating apparel captioning, classification, and retrieval systems
+
 🧰 Dependencies Used
 🐍 Python – Core programming language used for system development and training
 👁️ OpenCV – Image loading, resizing, preprocessing, and video frame extraction
@@ -175,7 +174,7 @@ It provides a large and balanced benchmark for training and evaluating apparel c
 📉 NLTK (BLEU) – Caption quality evaluation using BLEU-1 to BLEU-4 metrics
 🎨 Matplotlib – Training loss and performance visualization
 💻 Google Colab / Jupyter – Training and experimentation environment
----
+
 🔍 EDA & Preprocessing
 🖼️ All images are converted to RGB format to maintain uniformity across the dataset
 📏 Images are resized to 299×299 / 512×512 pixels to ensure compatibility with the CNN encoder
@@ -185,7 +184,7 @@ It provides a large and balanced benchmark for training and evaluating apparel c
 🔢 Text is tokenized and padded to convert words into numerical sequences for LSTM training
 🧠 ConvNeXt-Large extracts deep visual feature vectors instead of using raw images directly
 🎥 Videos are split into frames and each frame is preprocessed individually for caption generation
----
+
 🧪 Model Training Info
 🧠 ConvNeXt-Large generates deep visual feature embeddings from apparel images for semantic understanding
 🔁 LSTM decoder learns sequential language patterns to generate captions word-by-word
@@ -196,7 +195,7 @@ It provides a large and balanced benchmark for training and evaluating apparel c
 🔄 Teacher Forcing is used to guide the decoder with correct previous words during training for improved accuracy
 📊 BLEU-1 to BLEU-4 metrics evaluate caption quality and sentence-level coherence
 🎥 Video frames are processed individually and captions are generated continuously for smooth narration
----
+
 🧾 Model Testing / Evaluation
 📏 Metrics Used:
 📊 BLEU-1 – Measures single-word (unigram) caption accuracy
@@ -214,7 +213,7 @@ It provides a large and balanced benchmark for training and evaluating apparel c
 ⚖️ Performance demonstrates improved semantic understanding and balanced sentence-level accuracy
 
 
----
+
 🏆 Results
 ✅ Apparel Image Captioning
 🎯 BLEU-1 Score: 0.946
@@ -230,7 +229,7 @@ It provides a large and balanced benchmark for training and evaluating apparel c
 📦 Better generalization using larger and cleaner dataset
 🚀 Suitable for real-time e-commerce and assistive applications
 🆚 Outperforms traditional CNN–LSTM and attention-based captioning baselines in overall caption fluency and multi-word consistency
----
+
 ⚠️ Limitations & Future Work
 💻 Requires high GPU resources for training and real-time video caption generation
 📉 Caption quality may reduce for very complex scenes with multiple overlapping apparel items
@@ -243,7 +242,7 @@ It provides a large and balanced benchmark for training and evaluating apparel c
 🖥 Development of a web/mobile interface for user-friendly deployment
 🌍 Multilingual caption generation for broader accessibility
 ♿ Text-to-speech integration for visually impaired users
----
+
 🌍 Deployment Info
 🖥 Implemented using a Python-based backend for model training and inference
 🧠 ConvNeXt-Large + LSTM models deployed for real-time apparel caption generation
