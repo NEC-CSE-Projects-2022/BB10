@@ -131,7 +131,7 @@ improved contextual correctness
 
 
 ---
-🧩 About the Project
+##🧩 About the Project
 
 This project implements a deep learning–based apparel captioning system capable of automatically generating natural language descriptions for clothing images and videos within a single framework.
 
@@ -154,14 +154,14 @@ Output is returned as a descriptive text caption.
 
 ---
 
-📊 Dataset Used
+##📊 Dataset Used
 👉 **[Dataset Name:Fashion Product Images Dataset](Dataset URL:https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)**
 
 🗂 Dataset Details
 🟢 Fashion Product Images Dataset
 
-Contains ~44,000+ real-world fashion product images along with detailed metadata.
-It provides a large and balanced benchmark for training and evaluating apparel captioning, classification, and retrieval systems.
+****Contains ~44,000+ real-world fashion product images along with detailed metadata.
+It provides a large and balanced benchmark for training and evaluating apparel captioning, classification, and retrieval systems.****
 ---
 🧰 Dependencies Used
 🐍 Python – Core programming language used for system development and training
