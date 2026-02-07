@@ -1,6 +1,6 @@
 # 👕 Fashion Product Images Dataset — Preview & Download
 
-<img width="1100" height="550" alt="dataset-preview" src="C:\Users\Narendra Kanumuri\OneDrive\Pictures\Screenshots\Screenshot 2026-02-07 122229.png" />
+<img width="1100" height="550" alt="dataset-preview" src="https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset" />
 
 > Professional dataset README for the apparel image dataset used in this project.  
 > This file documents where to download the dataset, its structure, usage examples, acknowledgement, and citation information.
