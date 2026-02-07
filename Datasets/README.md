@@ -1,6 +1,6 @@
 # 👕 Fashion Product Images Dataset — Preview & Download
 
-<img width="1100" height="550" alt="dataset-preview" src="https://storage.googleapis.com/kagglesdsdata/datasets/139630/329006/fashion-dataset/images/10011.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20260206%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260206T052024Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=111a5990b1047a188cb500b19df0f0316192a1f42e08a10244d27a2c36eea28a91ac9df35c374eff57a92c7be93853182dcc0148cbe48c850ec34ddbb7574bb64620388b299bdbb40c155d210bc6623e72a5d71dcf0f311746c7a060f83526672d6599bf531e9c25bfa76a03ae79c250cad6ed6323e8b2ab01cff7d339e767f4407c19a940a4286bb946d0a9fdf23f978b7525f897b0385ae002ba415efa9ac4f8f82fa46efdd8e8d1b27491c4c2800c591a7801345d3a3914dbdc7aed37f6674b05169993d53e2615fdd5b4ed0e0e9347c458e9cc5237cc4b1d1ab43de7111f51669dbb80e736a86011b7f4e2f26f189fea4d80a10446b7121019440ec5692b" />
+<img width="1100" height="550" alt="dataset-preview" src="https://ibb.co/994Z5ZdR" />
 
 > Professional dataset README for the apparel image dataset used in this project.  
 > This file documents where to download the dataset, its structure, usage examples, acknowledgement, and citation information.
