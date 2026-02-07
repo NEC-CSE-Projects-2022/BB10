@@ -130,7 +130,7 @@ improved contextual correctness
 
 
 ---
-##🧩 About the Project
+**##🧩 About the Project**
 
 This project implements a deep learning–based apparel captioning system capable of automatically generating natural language descriptions for clothing images and videos within a single framework.
 
@@ -153,7 +153,7 @@ Output is returned as a descriptive text caption.
 
 ---
 
-##📊 Dataset Used
+**##📊 Dataset Used**
 👉 **[Dataset Name:Fashion Product Images Dataset](Dataset URL:https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)**
 
 🗂 Dataset Details
@@ -162,7 +162,9 @@ Output is returned as a descriptive text caption.
 Contains ~44,000+ real-world fashion product images along with detailed metadata.
 It provides a large and balanced benchmark for training and evaluating apparel captioning, classification, and retrieval systems
 
-##🧰 Dependencies Used
+---
+
+**##🧰 Dependencies Used**
 🐍 Python – Core programming language used for system development and training
 👁️ OpenCV – Image loading, resizing, preprocessing, and video frame extraction
 🔥 TensorFlow / Keras – Deep learning framework for building and training the captioning model
@@ -175,7 +177,9 @@ It provides a large and balanced benchmark for training and evaluating apparel c
 🎨 Matplotlib – Training loss and performance visualization
 💻 Google Colab / Jupyter – Training and experimentation environment
 
-##🔍 EDA & Preprocessing
+---
+
+**##🔍 EDA & Preprocessing**
 🖼️ All images are converted to RGB format to maintain uniformity across the dataset
 📏 Images are resized to 299×299 / 512×512 pixels to ensure compatibility with the CNN encoder
 🧹 Corrupted, missing, and duplicate image files are removed during data cleaning
@@ -185,7 +189,9 @@ It provides a large and balanced benchmark for training and evaluating apparel c
 🧠 ConvNeXt-Large extracts deep visual feature vectors instead of using raw images directly
 🎥 Videos are split into frames and each frame is preprocessed individually for caption generation
 
-##🧪 Model Training Info
+---
+
+**##🧪 Model Training Info**
 🧠 ConvNeXt-Large generates deep visual feature embeddings from apparel images for semantic understanding
 🔁 LSTM decoder learns sequential language patterns to generate captions word-by-word
 📏 Images are resized and normalized before training to ensure stable and faster convergence
@@ -196,7 +202,9 @@ It provides a large and balanced benchmark for training and evaluating apparel c
 📊 BLEU-1 to BLEU-4 metrics evaluate caption quality and sentence-level coherence
 🎥 Video frames are processed individually and captions are generated continuously for smooth narration
 
-##🧾 Model Testing / Evaluation
+---
+
+**##🧾 Model Testing / Evaluation**
 📏 Metrics Used:
 📊 BLEU-1 – Measures single-word (unigram) caption accuracy
 📊 BLEU-2 – Evaluates two-word phrase consistency
@@ -212,9 +220,9 @@ It provides a large and balanced benchmark for training and evaluating apparel c
 🧠 Generated captions are compared with ground-truth captions using BLEU scores
 ⚖️ Performance demonstrates improved semantic understanding and balanced sentence-level accuracy
 
+---
 
-
-##🏆 Results
+**##🏆 Results**
 ✅ Apparel Image Captioning
 🎯 BLEU-1 Score: 0.946
 🥇 BLEU-2 Score: 0.932
@@ -230,7 +238,9 @@ It provides a large and balanced benchmark for training and evaluating apparel c
 🚀 Suitable for real-time e-commerce and assistive applications
 🆚 Outperforms traditional CNN–LSTM and attention-based captioning baselines in overall caption fluency and multi-word consistency
 
-##⚠️ Limitations & Future Work
+---
+
+**##⚠️ Limitations & Future Work**
 💻 Requires high GPU resources for training and real-time video caption generation
 📉 Caption quality may reduce for very complex scenes with multiple overlapping apparel items
 🎥 Frame-by-frame processing can increase latency for long or high-resolution videos
@@ -243,7 +253,9 @@ It provides a large and balanced benchmark for training and evaluating apparel c
 🌍 Multilingual caption generation for broader accessibility
 ♿ Text-to-speech integration for visually impaired users
 
-##🌍 Deployment Info
+---
+
+**##🌍 Deployment Info**
 🖥 Implemented using a Python-based backend for model training and inference
 🧠 ConvNeXt-Large + LSTM models deployed for real-time apparel caption generation
 ⚡ GPU acceleration (CUDA-enabled systems) used for faster feature extraction and caption prediction
