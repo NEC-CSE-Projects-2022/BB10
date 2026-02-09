@@ -214,5 +214,7 @@ https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
 ---
 
 # ✨ Project By
-👨‍💻 Narendra Kanumuri  
+👨‍💻 Narendra Kanumuri
+👨‍💻 Nallamekala Vignesh
+👨‍💻 Peddipaka Udaykiran
 🎓 Smart Apparel Narrator — Deep Learning-Based Apparel Captioning System
