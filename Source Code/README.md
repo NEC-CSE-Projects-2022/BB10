@@ -200,7 +200,7 @@ Suggested captions:
 ## Maintainer
 
 Kanumuri Narendra  
-📧 formystudiesbtech@gmail.com
+📧 narendrakanumurib@gmail.com
 
 ---
 
